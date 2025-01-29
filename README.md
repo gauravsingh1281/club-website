@@ -1,4 +1,4 @@
-# 🚀 Welcome to the **CS Club** at **IIITDM Kancheepuram** 💻✨
+# 🚀 Welcome to the **CS Club** at **IIITDM Kancheepuram** 💻
 
 Hey there, fellow tech enthusiast! 👋 Welcome to **CS Club** — the coolest **techie community** at IIITDM Kancheepuram. We’re a group of passionate learners and creators who thrive on **innovation**, **collaboration**, and **having fun**! 🎉
 
