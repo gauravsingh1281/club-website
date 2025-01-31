@@ -88,4 +88,3 @@ def cs_club_welcome():
     print("Where coding, learning, and fun meet! 🚀")
     
 cs_club_welcome()
-
