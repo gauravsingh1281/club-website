@@ -118,6 +118,12 @@ const WingsDetails = () => {
       description: "Our CP wing is dedicated to enhancing algorithmic problem-solving and competitive programming skills. We host regular contests and interactive sessions, providing valuable resources and guidance to help members excel in competitive programming. Additionally, we foster a collaborative environment for skill development and knowledge sharing, empowering members to refine their techniques and strategies for tackling complex challenges.",
       events: [
         {
+          image: "/cpintro.png"
+        },
+        {
+          image: "/cpcontest2025.png"
+        },
+        {
           image: "/cpicpc.jpg"
         },
         {
