@@ -35,7 +35,22 @@ const Events = () => {
       eyebrow: "04",
       description: "Problem of the day.",
       image: "/eventpotd.jpg"
+    },
+    {
+      id: "4",
+      title: "Intro to CP",
+      eyebrow: "05",
+      description: "Introduction to competitive programming.",
+      image: "/eventintrocp.jpg"
+    },
+    {
+      id: "5",
+      title: "First CP Contest 2025",
+      eyebrow: "06",
+      description: "CP contest for first-years.",
+      image: "/eventcpfirsty.jpg"
     }
+    
   ];
 
   const upcomingEvents = [
