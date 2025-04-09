@@ -7,7 +7,7 @@ import { FaEnvelope } from '@react-icons/all-files/fa/FaEnvelope';
 
 const Footer = () => {
   return (
-    <footer className="bg-black/90 text-white py-12">
+    <footer className="bg-black/90 text-white py-12 absolute z-10 w-full">
       <div className="container mx-auto px-4">
         <div className="flex flex-col items-center mb-8">
           <div className="flex space-x-6 mb-6">

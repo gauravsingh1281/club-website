@@ -5,6 +5,7 @@ import * as THREE from 'three';
 import { FaGithub } from '@react-icons/all-files/fa/FaGithub';
 import { FaLinkedin } from '@react-icons/all-files/fa/FaLinkedin';
 import Navbar from '../components/Navbar';  // Import the Navbar component
+import Footer from '../components/Footer'
 
 const getInitialAvatar = (name) => {
   const initials = name.split(' ')
@@ -516,11 +517,14 @@ const Teams = () => {
                     </div>
                   </div>
                 )}
-              </motion.div>
+              </motion.div> 
             ))}
+            
           </div>
         </div>
+      
       </div>
+      
     </>
   );
 };
